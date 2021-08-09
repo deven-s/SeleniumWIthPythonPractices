@@ -11,3 +11,4 @@ driver.find_element_by_id("Pharmacy").click()
 driver.find_element_by_id("loginButton").click()
 
 assert "Home" in driver.title
+
