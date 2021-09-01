@@ -29,7 +29,7 @@ with webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chrome
     # Loop through until we find a new window handle
     for window_handle in driver.window_handles:
         if window_handle != original_window:
-            driver.switch_to.window(win dow_handle)
+            driver.switch_to.window(window_handle)
             break
 
     # Wait for the new tab to finish loading content
