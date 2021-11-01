@@ -5,7 +5,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
-driver = webdriver.Chrome(executable_path=r"C:\Users\devsurya\Downloads\chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\chromedriver.exe")
     
 driver.get("http://demo.automationtesting.in/Windows.html")
 print(driver.title)  # returns title of the page
