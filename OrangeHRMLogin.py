@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 
 
 
-driver=webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chromedriver.exe")
+driver=webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe")
 driver.maximize_window()
 driver.get("https://opensource-demo.orangehrmlive.com/")
 
