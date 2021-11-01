@@ -7,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as ec
 
 # Browser launch
-driver = webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe")
 driver.maximize_window()
 
 # get the url
