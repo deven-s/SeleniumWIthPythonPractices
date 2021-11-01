@@ -8,7 +8,7 @@
 
 from selenium import webdriver
 
-driver = webdriver.Chrome(executable_path=r"C:\Users\devsurya\Downloads\chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\chromedriver.exe")
 
 driver.get("http://demo.openmrs.org/openmrs/login.htm")
 
