@@ -13,7 +13,6 @@ from selenium.common.exceptions import StaleElementReferenceException
 # 1.  Launch/Instantiate the chrome browser
 from webdriver_manager.chrome import ChromeDriverManager
 driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
-#driver = webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chromedriver.exe")
 driver.maximize_window()
 
 #  2. Go to website
