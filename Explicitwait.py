@@ -47,10 +47,6 @@ driver.close()
 
 
 
-
-
-
-
 ########################## Element identifiers in selenium-  #####
 
 driver.find_element(By.ID, 'cpce-vac-launch').click()
@@ -61,9 +57,5 @@ driver.find_element(By.PARTIAL_LINK_TEXT,'Expedia')
 driver.find_element(By.CSS_SELECTOR)
 driver.find_element(By.CLASS_NAME)
 driver.find_element(By.XPATH)
-
-
-driver.find_element
-driver.find_elements
 
 
