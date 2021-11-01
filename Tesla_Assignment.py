@@ -36,10 +36,10 @@ driver.switch_to.frame(iframe)
 
 # enter a id
 ele = driver.find_element_by_xpath("//input[@id='loginUsername']")
-ele.send_keys("_sunil_1993")
+ele.send_keys("_1993")
 
 # enter a password
-driver.find_element(By.XPATH, ".//input[@id='loginPassword']").send_keys("Sunil@1993")
+driver.find_element(By.XPATH, ".//input[@id='loginPassword']").send_keys("@1993")
 driver.find_element(By.XPATH, ".//button[@class='AnimatedForm__submitButton m-full-width']").click()
 
 # upvote and down vote checking
