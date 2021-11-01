@@ -9,7 +9,7 @@ from selenium import webdriver
 # webdriver
 import time
 
-driver = webdriver.Chrome(executable_path=r"C:\Users\devsurya\Downloads\chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\chromedriver.exe")
 
 driver.get("http://newtours.demoaut.com/")
 
