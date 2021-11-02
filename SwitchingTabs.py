@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 import time
 
 # Start the driver
-with webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chromedriver.exe") as driver:
+with webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe") as driver:
     # Open URL
     driver.get("https://seleniumhq.github.io")
 
