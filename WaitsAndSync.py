@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-driver = webdriver.Chrome(executable_path=r"C://Users/devsurya/Downloads/chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"C://Users/Downloads/chromedriver.exe")
 #driver.implicitly_wait(10) #seconds
 driver.get("http://demo.openmrs.org/openmrs/login.htm")
 driver.implicitly_wait(10) #seconds
