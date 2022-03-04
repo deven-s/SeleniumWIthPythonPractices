@@ -43,7 +43,9 @@ driver.find_element(By.XPATH, ".//input[@id='loginPassword']").send_keys("Sunil@
 driver.find_element(By.XPATH, ".//button[@class='AnimatedForm__submitButton m-full-width']").click()
 
 # upvote and down vote checking
-upvote_btn = wait.until(ec.presence_of_element_located((By.XPATH, "(.//div[@data-testid='post-container'])[2]/div//button[starts-with(@id, 'upvote-button-')]")))
+upvote_btn = wait.until(ec.
+
+                        presence_of_element_located((By.XPATH, "(.//div[@data-testid='post-container'])[2]/div//button[starts-with(@id, 'upvote-button-')]")))
 # upvote_btn = driver.find_element_by_xpath("(.//div[@data-testid='post-container'])[2]/div//button[starts-with(@id, 'upvote-button-')]")
 print(upvote_btn)
 upvote_btn.click()
