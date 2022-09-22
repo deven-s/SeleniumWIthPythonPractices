@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-driver = webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe")
 driver.maximize_window()
 driver.implicitly_wait(5)
 driver.get("https://www.expedia.com")
@@ -47,10 +47,6 @@ driver.close()
 
 
 
-
-
-
-
 ########################## Element identifiers in selenium-  #####
 
 driver.find_element(By.ID, 'cpce-vac-launch').click()
@@ -61,9 +57,5 @@ driver.find_element(By.PARTIAL_LINK_TEXT,'Expedia')
 driver.find_element(By.CSS_SELECTOR)
 driver.find_element(By.CLASS_NAME)
 driver.find_element(By.XPATH)
-
-
-driver.find_element
-driver.find_elements
 
 

@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions  # as EC
 from datetime import datetime
 
 # 1.  Launch/Instantiate the chrome browser
-driver = webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe")
 driver.maximize_window()
 
 #  2. Go to Bank Bazaar website

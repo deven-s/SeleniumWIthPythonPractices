@@ -6,7 +6,7 @@ import time
 
 def launchBrowser():
     # Start the driver
-    driver = webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chromedriver.exe")
+    driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe")
     return driver
 
 

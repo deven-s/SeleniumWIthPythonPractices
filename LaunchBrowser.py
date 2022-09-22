@@ -3,11 +3,12 @@ from selenium.webdriver import Chrome
 
 
 # Command to launch the broswer
-driver = Chrome(executable_path=r'C:\Users\suryawanshi_de\Downloads\chromedriver.exe')
+# Path is supposed to be changed as per your system.
+driver = Chrome(executable_path=r'C:\Users\Downloads\chromedriver.exe')
 
 # Command to navigate to the website or URL
 #driver.get("https://selenium.dev")
-driver.get(r"C:\Users\suryawanshi_de\Desktop\dropdownlist.html")
+driver.get(r"C:\Users\Desktop\dropdownlist.html")
 
 # Command to maximize the browser
 print(driver.maximize_window)   # This line will do nothing but it will print the method binding with Webdriver class

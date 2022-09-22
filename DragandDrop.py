@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-driver = webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe")
 
 # Navigate to url
 driver.get("https://crossbrowsertesting.github.io/drag-and-drop")

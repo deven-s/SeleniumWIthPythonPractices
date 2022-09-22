@@ -8,7 +8,7 @@ from selenium.webdriver.common.keys import Keys
 import re
 # launch the browser
 def LaunchBrowser():
-    driver1 = webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chromedriver.exe")
+    driver1 = webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe")
     # maximise the window
     driver1.maximize_window()
     return driver1

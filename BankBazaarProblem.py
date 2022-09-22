@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 #1.  Launch/Instantiat the chrome browser
-driver = webdriver.Chrome(executable_path=r"C:\Users\suryawanshi_de\Downloads\Chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe")
 driver.maximize_window()
 driver.implicitly_wait(5)
 
