@@ -66,23 +66,6 @@
     </Creative>
    </Creatives>
    <Extensions>
-    <Extension type="geo">
-     <Country>
-      US
-     </Country>
-     <Bandwidth>
-      0
-     </Bandwidth>
-    </Extension>
-    <Extension type="dart">
-     <AdServingData>
-      <DeliveryData>
-       <GeoData>
-        ct=US&amp;st=VA&amp;city=16629&amp;dma=13&amp;zp=&amp;bw=0
-       </GeoData>
-      </DeliveryData>
-     </AdServingData>
-    </Extension>
     <Extension type="GDCM">
      <UniversalAdId>
       <Id>
