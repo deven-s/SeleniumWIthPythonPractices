@@ -1,98 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?> asdasdfasfdasfassfasdfasffasdfas something wrong in the file
-<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="2.0">
-<Ad id="549281880">
-<InLine>
-<AdSystem>
-DCM
-</AdSystem>
-<AdTitle>
-In-Stream Video
-</AdTitle>
-<Error>
-<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIz7TF6O2j_gIVtuH9BR06dwY0EAAYACDanKxV;met=1;ecn1=1;etm1=0;eid1=200015;]]>
-</Error>
-<Impression>
-<![CDATA[https://googleads4.g.doubleclick.net/pcs/view?xai=AKAOjssiyDfT0F8CHH7RK7ALr5aqoiGP6wEznRoBYUtVN-AcE-6hBnwOOMXNno8rJexHlnSUgm37-KCdkcV2PJYj0raVZ5I77g6STXl2ZpG-A0LVc_ubNjSL&sai=AMfl-YQrwa971NL81KtP_AoDi5wvHr3qBgLsMwpvy92StGJ4-abyPoH5MWs-ZkBvAX_zUmnIdqf9YZBp7VsvaZc&sig=Cg0ArKJSzCtyyZy5VIoHEAE&uach_m=[UACH]&cry=1&fbs_aeid=[gw_fbsaeid]&urlfix=1&adurl=]]>
-</Impression>
-<Impression>
-<![CDATA[https://sync.graph.bluecava.com/ds.png?p=9274e5db-ddcb-11ea-a80b-0242ac110002&segment=bb1e43397b3eeb1187b842010a788008&uid=&CampaignID=5903C&Channel=Video&CreativeID=178982490&Placement=358156415&MAID=&Keyword=&Medium=&Source=&PageName=&Event=&Key1=&Key2=&Key3=&Key4=&Key5=]]>
-</Impression>
-<Creatives>
-<Creative id="178982490" AdID="178982490-1" sequence="1">
-<Linear>
-<Duration>
-00:00:30
-</Duration>
-<TrackingEvents>
-<Tracking event="start">
-<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIz7TF6O2j_gIVtuH9BR06dwY0EAAYACDanKxV;met=1;ecn1=1;etm1=0;eid1=11;]]>
-</Tracking>
-<Tracking event="firstQuartile">
-<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIz7TF6O2j_gIVtuH9BR06dwY0EAAYACDanKxV;met=1;ecn1=1;etm1=0;eid1=960584;]]>
-</Tracking>
-<Tracking event="midpoint">
-<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIz7TF6O2j_gIVtuH9BR06dwY0EAAYACDanKxV;met=1;ecn1=1;etm1=0;eid1=18;]]>
-</Tracking>
-<Tracking event="thirdQuartile">
-<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIz7TF6O2j_gIVtuH9BR06dwY0EAAYACDanKxV;met=1;ecn1=1;etm1=0;eid1=960585;]]>
-</Tracking>
-<Tracking event="complete">
-<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIz7TF6O2j_gIVtuH9BR06dwY0EAAYACDanKxV;met=1;ecn1=1;etm1=0;eid1=13;]]>
-</Tracking>
-<Tracking event="mute">
-<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIz7TF6O2j_gIVtuH9BR06dwY0EAAYACDanKxV;met=1;ecn1=1;etm1=0;eid1=16;]]>
-</Tracking>
-<Tracking event="unmute">
-<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIz7TF6O2j_gIVtuH9BR06dwY0EAAYACDanKxV;met=1;ecn1=1;etm1=0;eid1=149645;]]>
-</Tracking>
-<Tracking event="pause">
-<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIz7TF6O2j_gIVtuH9BR06dwY0EAAYACDanKxV;met=1;ecn1=1;etm1=0;eid1=15;]]>
-</Tracking>
-<Tracking event="fullscreen">
-<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIz7TF6O2j_gIVtuH9BR06dwY0EAAYACDanKxV;met=1;ecn1=1;etm1=0;eid1=19;]]>
-</Tracking>
-</TrackingEvents>
-<VideoClicks>
-<ClickThrough>
-<![CDATA[https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssiyDfT0F8CHH7RK7ALr5aqoiGP6wEznRoBYUtVN-AcE-6hBnwOOMXNno8rJexHlnSUgm37-KCdkcV2PJYj0raVZ5I77g6STXl2ZpG-A0LVc_ubNjSL&sai=AMfl-YQnF2wVwu6GwIU6yx8xLImRSj8t5xObCxXHAg_p9SpZnc15PbY3xqGSaspYxkhmygCVJClxujINz7P0W6w&sig=Cg0ArKJSzA2uNqQgD88REAE&cry=1&fbs_aeid=[gw_fbsaeid]&urlfix=1&adurl=https://www.adbry.com/about-adbry/how-adbry-works/%3Futm_source%3DDeepIntent%26utm_medium%3Dvideo%26utm_campaign%3DDeepIntent_30s%26utm_content%3DCompetitive_Conquesting]]>
-</ClickThrough>
-</VideoClicks>
-
-</Linear>
-</Creative>
-</Creatives>
-<Extensions>
-<Extension type="geo">
-<Country>
-US
-</Country>
-<Bandwidth>
-4
-</Bandwidth>
-<BandwidthKbps>
-9000
-</BandwidthKbps>
-</Extension>
-<Extension type="dart">
-<AdServingData>
-<DeliveryData>
-<GeoData>
-<![CDATA[ct=US&st=&city=0&dma=0&zp=&bw=4]]>
-</GeoData>
-</DeliveryData>
-</AdServingData>
-</Extension>
-<Extension type="GDCM">
-<UniversalAdId>
-<Id>
-178982490-1
-</Id>
-<InCreativeAdId>
-Yes
-</InCreativeAdId>
-</UniversalAdId>
-</Extension>
-</Extensions>
-</InLine>
-</Ad>
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+ <Ad id="601613319">
+  <InLine>
+   <AdSystem>
+    DCM
+   </AdSystem>
+   <AdTitle>
+    In-Stream Audio
+   </AdTitle>
+   <Error>
+    https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMImpvX5tPliwMVuy2ICR0H0BH5EAAYACDWxPVr;dc_eps=AHas8cCsPSFuW2mAyeKXITIWJuPlQevFPtd5xtuLP-bGASmglhglijD96gUlRtN0jRHSBh9Mw83FRJFWfJjN_8WPEKU;met=1;ecn1=1;etm1=0;eid1=200016;
+   </Error>
+   <Impression>
+    https://googleads4.g.doubleclick.net/pcs/view?xai=AKAOjsvXWlhl8OmLNyg1d1x6cVY2QSi_0To2niYL4gONi4cERa6F3307BNfDRjOCXaZQuNlBXJVY_X5gGlXMIk2Ch3Q9kERIDCJRDP2WRoCx_6-HNf11s2cVy5cUhat4GHd0wW61PmdHDvf7W7DRWQ&amp;sai=AMfl-YSCagTQKgFDxsnf2JilaYDU52IxiKmm8yS_E6TxNl3bP53Kn3496jEvM-4YSt5Rj2LXzHIQ9rhZ-WDg&amp;sig=Cg0ArKJSzKkE0dbdE--0EAE&amp;uach_m=%5BUACH%5D&amp;cry=1&amp;fbs_aeid=%5Bgw_fbsaeid%5D&amp;urlfix=1&amp;adurl=
+   </Impression>
+   <Creatives>
+    <Creative AdID="226320982-1" id="226320982" sequence="1">
+     <Linear>
+      <Duration>
+       00:00:15
+      </Duration>
+      <TrackingEvents>
+       <Tracking event="start">
+        https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMImpvX5tPliwMVuy2ICR0H0BH5EAAYACDWxPVr;dc_eps=AHas8cCsPSFuW2mAyeKXITIWJuPlQevFPtd5xtuLP-bGASmglhglijD96gUlRtN0jRHSBh9Mw83FRJFWfJjN_8WPEKU;met=1;ecn1=1;etm1=0;eid1=200017;
+       </Tracking>
+       <Tracking event="firstQuartile">
+        https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMImpvX5tPliwMVuy2ICR0H0BH5EAAYACDWxPVr;dc_eps=AHas8cCsPSFuW2mAyeKXITIWJuPlQevFPtd5xtuLP-bGASmglhglijD96gUlRtN0jRHSBh9Mw83FRJFWfJjN_8WPEKU;met=1;ecn1=1;etm1=0;eid1=200027;
+       </Tracking>
+       <Tracking event="midpoint">
+        https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMImpvX5tPliwMVuy2ICR0H0BH5EAAYACDWxPVr;dc_eps=AHas8cCsPSFuW2mAyeKXITIWJuPlQevFPtd5xtuLP-bGASmglhglijD96gUlRtN0jRHSBh9Mw83FRJFWfJjN_8WPEKU;met=1;ecn1=1;etm1=0;eid1=200024;
+       </Tracking>
+       <Tracking event="thirdQuartile">
+        https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMImpvX5tPliwMVuy2ICR0H0BH5EAAYACDWxPVr;dc_eps=AHas8cCsPSFuW2mAyeKXITIWJuPlQevFPtd5xtuLP-bGASmglhglijD96gUlRtN0jRHSBh9Mw83FRJFWfJjN_8WPEKU;met=1;ecn1=1;etm1=0;eid1=200028;
+       </Tracking>
+       <Tracking event="complete">
+        https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMImpvX5tPliwMVuy2ICR0H0BH5EAAYACDWxPVr;dc_eps=AHas8cCsPSFuW2mAyeKXITIWJuPlQevFPtd5xtuLP-bGASmglhglijD96gUlRtN0jRHSBh9Mw83FRJFWfJjN_8WPEKU;met=1;ecn1=1;etm1=0;eid1=200019;
+       </Tracking>
+       <Tracking event="mute">
+        https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMImpvX5tPliwMVuy2ICR0H0BH5EAAYACDWxPVr;dc_eps=AHas8cCsPSFuW2mAyeKXITIWJuPlQevFPtd5xtuLP-bGASmglhglijD96gUlRtN0jRHSBh9Mw83FRJFWfJjN_8WPEKU;met=1;ecn1=1;etm1=0;eid1=200022;
+       </Tracking>
+       <Tracking event="unmute">
+        https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMImpvX5tPliwMVuy2ICR0H0BH5EAAYACDWxPVr;dc_eps=AHas8cCsPSFuW2mAyeKXITIWJuPlQevFPtd5xtuLP-bGASmglhglijD96gUlRtN0jRHSBh9Mw83FRJFWfJjN_8WPEKU;met=1;ecn1=1;etm1=0;eid1=200031;
+       </Tracking>
+       <Tracking event="pause">
+        https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMImpvX5tPliwMVuy2ICR0H0BH5EAAYACDWxPVr;dc_eps=AHas8cCsPSFuW2mAyeKXITIWJuPlQevFPtd5xtuLP-bGASmglhglijD96gUlRtN0jRHSBh9Mw83FRJFWfJjN_8WPEKU;met=1;ecn1=1;etm1=0;eid1=200021;
+       </Tracking>
+      </TrackingEvents>
+      <VideoClicks>
+       <ClickThrough>
+        https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsuCh16whh65FHayhuEdHQhRHGpJC71MCpZOat0Ew72VJu6iDPugfGm-9B8dLoxSboYugTDJ_0p0nljnCxPx_IBMFOud6n-eUfAU-QuxPsxIHAyGDhb3KXYpzKKQFJ2ayQ8w1xLcphLDuq4E5Q&amp;sai=AMfl-YTyutOZ9JZBFSElsI7Zbl535Xhjho6cggD3pTI-jncOM9Q-GXGAwaPUzuDQViondQLgv5XeZQmNduHi&amp;sig=Cg0ArKJSzBjXpRz9nZn0EAE&amp;cry=1&amp;fbs_aeid=%5Bgw_fbsaeid%5D&amp;urlfix=1&amp;adurl=https://www.ocrevus.com/%3Fc%3Docr-1934bbf2825%26advid%3D8456086%26campid%3D32793502%26siteid%3D5300834%26plid%3D409807131%26crid%3D226320982%26dclid%3D%25edclid!
+       </ClickThrough>
+      </VideoClicks>
+      <MediaFiles>
+       <MediaFile bitrate="319" delivery="progressive" height="0" id="911057425-25" maintainAspectRatio="true" scalable="true" type="audio/mpeg" width="0">
+        https://gcdn.2mdn.net/videoplayback?id=694ae8bc16ed8761&amp;itag=25&amp;source=web_video_ads&amp;xpc=EgVovf3BOg%3D%3D&amp;ctier=L&amp;ip=0.0.0.0&amp;ipbits=0&amp;expire=3873557772&amp;sparams=id,itag,source,xpc,ctier,ip,ipbits,expire&amp;signature=9C63E42E338EC820540E44A951CD6B039D8BD40B.22C62C9C4EE14E2C63F9DF38C346018E3746EF00&amp;key=ck2
+       </MediaFile>
+       <MediaFile bitrate="186" delivery="progressive" height="0" id="911057425-378" maintainAspectRatio="true" scalable="true" type="audio/ogg" width="0">
+        https://gcdn.2mdn.net/videoplayback/id/694ae8bc16ed8761/itag/378/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/ip/0.0.0.0/ipbits/0/expire/3873557772/sparams/id,itag,source,xpc,ctier,ip,ipbits,expire/signature/6E383C48B9009EF77345CCD9AD2BF4E090571886.32BFDBCA90D9448880C8889C220DFFEF76E0989D/key/ck2/file/file.ogg
+       </MediaFile>
+       <MediaFile bitrate="319" delivery="progressive" height="0" id="911057425-51" maintainAspectRatio="true" scalable="true" type="audio/mp4" width="0">
+        https://gcdn.2mdn.net/videoplayback/id/694ae8bc16ed8761/itag/51/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/ip/0.0.0.0/ipbits/0/expire/3873557772/sparams/id,itag,source,xpc,ctier,ip,ipbits,expire/signature/A56D8142DCDAA7F11DA9318E464D851F122B0AB9.B970149EE17332745299C19B7EACC285123E7981/key/ck2/file/file.m4a
+       </MediaFile>
+      </MediaFiles>
+     </Linear>
+    </Creative>
+   </Creatives>
+   <Extensions>
+    <Extension type="geo">
+     <Country>
+      US
+     </Country>
+     <Bandwidth>
+      0
+     </Bandwidth>
+    </Extension>
+    <Extension type="dart">
+     <AdServingData>
+      <DeliveryData>
+       <GeoData>
+        ct=US&amp;st=VA&amp;city=16629&amp;dma=13&amp;zp=&amp;bw=0
+       </GeoData>
+      </DeliveryData>
+     </AdServingData>
+    </Extension>
+    <Extension type="GDCM">
+     <UniversalAdId>
+      <Id>
+       226320982-1
+      </Id>
+      <InCreativeAdId>
+       Yes
+      </InCreativeAdId>
+     </UniversalAdId>
+    </Extension>
+   </Extensions>
+  </InLine>
+ </Ad>
 </VAST>
