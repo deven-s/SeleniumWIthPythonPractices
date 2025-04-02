@@ -19,6 +19,13 @@ driver.get("https://www.flipkart.com/")
 wait = WebDriverWait(driver, 5)
 #wait.until(EC.title_is(By.XPATH,".//title[contains(text(),'Online Shopping Site for Mobiles, Electronics, Furniture')]"),True)
 
+# getting the flipkart URL for testing
+driver.get("https://www.flipkart.com/")
+wait = WebDriverWait(driver, 5)
+#wait.until(EC.title_is(By.XPATH,".//title[contains(text(),'Online Shopping Site for Mobiles, Electronics, Furniture')]"),True)
+
+print("you have reached to home page")
+
 print("you have reached to home page")
 
 # for closing the popup window after geting the home page of flipkart.com
@@ -52,8 +59,15 @@ driver.find_element_by_xpath(".//div[@class='_3Il5oO dwRsDN']//span[text()='Elec
 # //*[@id="container"]/div/div[2]/div/div/div/div[1]/a[7]
 #
 
+#print blank lines
+
+print()
+
 #Action.move_to_element(dropdown).perform()
 wait.until(EC.presence_of_element_located((By.XPATH, ".//a[@title='Apple']")))
 driver.find_element_by_xpath(".//a[@title='Apple']").click()
 print("click on electronics link now")
 # Elector.click()
+
+
+driver.find_element_by_xpath(".//a[@title='Apple']).click()
