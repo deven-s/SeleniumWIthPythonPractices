@@ -21,7 +21,7 @@ driver.get("https://www.google.com/")
 driver.find_element_by_xpath(".//input[@name='q']").send_keys("wikipedia.com", Keys.ENTER)
 driver.find_element_by_xpath(".//h3[text()='Wikipedia']/parent::a").click()
 
-driver.find_element_by_id("searchInput").send_keys("Giga Berlin", Keys.ENTER)
+driver.find_element_by_xpath(".//span[@class='geo-dec']/ancestor::a").click(
 
 coordinates = driver.find_element_by_xpath(".//span[@class='geo-dec']").text
 
@@ -31,14 +31,10 @@ co_ord = re.sub("[^0-9.\s]", "", coordinates).replace(" ", ",")
 print(co_ord)
 
 driver.find_element_by_xpath(".//span[@class='geo-dec']/ancestor::a").click()
+driver.find_element_by_xpath(".//span[@class='geo-dec']/ancestor::a").click()
 
 gmap_link = driver.find_element_by_xpath(".//span[text()='Google Maps']/ancestor::a")
-gmap_link_href = gmap_link.get_attribute('href')
 
-print(gmap_link_href)
-
-this_window = driver.current_window_handle
-gmap_link.send_keys(Keys.CONTROL + Keys.RETURN)
 
 handles = driver.window_handles
 for handle in handles:
@@ -48,4 +44,5 @@ for handle in handles:
 text_cord = driver.find_element_by_xpath(".//span[starts-with(text(),'52.4')]").text
 print(text_cord)
 assert co_ord in gmap_link_href
+#driver.close()
 #driver.close()
