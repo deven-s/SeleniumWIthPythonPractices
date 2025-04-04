@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions  # as EC
-from datetime import datetime
+from datetime import dateti
 
 # 1.  Launch/Instantiate the chrome browser
 driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe")
@@ -23,3 +23,6 @@ print(alert.text)
 
 # expected condition cheking attribute of the element
 wait.until(expected_conditions.element_located_selection_state_to_be(".//a[@href='#CancelTab']", ))
+
+wait.until(expected_conditions.element_located_selection_state_to_be(".//a[@href='#CancelTab']", ))
+

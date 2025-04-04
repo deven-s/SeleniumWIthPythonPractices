@@ -18,3 +18,6 @@ print(tooltip_data.text)
 # Perform double-click action on the element
 # webdriver.ActionChains(driver).double_click(searchBtn).perform()
 # webdriver.ActionChains(driver).context_click(searchBtn).send_keys(Keys.ARROW_DOWN, Keys.RETURN).perform()
+
+# Perform double-click action on the element
+ Perform double-click action on the element
