@@ -25,5 +25,9 @@ print("is it enter company name")
 
 # wait for element
     # 4.1 Selecting 2nd value of dropdown for INFOSYS 
-dropdown = driver.find_element_by_xpath(".//div[@class='Select-menu-outer']") #.get_attribute("innerHTML")
+dropdown = driver.find_element_by_xpath(".//div[@class='Select-menu-outer']" #.get_attribute("innerHTML")
 dropdown.find_element_by_xpath(".//div[@role='listbox']/div[2]").click()
+
+
+dropdown.find_element_by_xpath(".//div[@role='listbox']/div[2]").click()
+# this is non intented comment dropdown.find_element_by_xpath(".//div[@role='listbox']/div[2]").click()

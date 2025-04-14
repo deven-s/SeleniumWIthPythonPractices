@@ -20,6 +20,7 @@ driver.get("https://www.google.com/")
 
 driver.find_element_by_xpath(".//input[@name='q']").send_keys("wikipedia.com", Keys.ENTER)
 driver.find_element_by_xpath(".//h3[text()='Wikipedia']/parent::a").click()
+driver.find_element_by_xpath(".//h3[text()='Wikipedia']/parent::div").click()
 
 driver.find_element_by_id("searchInput").send_keys("Giga Berlin", Keys.ENTER)
 

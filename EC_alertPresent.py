@@ -23,3 +23,17 @@ print(alert.text)
 
 # expected condition cheking attribute of the element
 wait.until(expected_conditions.element_located_selection_state_to_be(".//a[@href='#CancelTab']", ))
+
+
+
+# open one more browser instance
+driver = webdriver.Chrome(executable_path=r"C:\Users\Downloads\Chromedriver.exe") @asd;lfajsrnandom code not relevant
+driver.maximize_window()
+
+
+
+
+
+
+
+fake_code = "which does nothing";
